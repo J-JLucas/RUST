@@ -1,4 +1,5 @@
-// GCD program from "Programming Rust: 2nd Ed".
+// GCD program from
+// "Programming Rust: Fast, Safe Systems Development"
 
 use std::str::FromStr;
 use std::env;
